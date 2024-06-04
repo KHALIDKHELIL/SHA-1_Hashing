@@ -1,10 +1,10 @@
-#SHA-1 Hash Calculator
+# SHA-1 Hash Calculator
 
-##Description
+## Description
 
 This project is a graphical user interface (GUI) application that calculates the SHA-1 hash for a given input string. The application is built using Java and Swing for the GUI components. It provides functionalities to compute, copy, and clear the SHA-1 hash, as well as a dark mode toggle for better user experience.
 
-##Features
+## Features
 
 - **Input field**: Allows users to input the string they want to hash.
 - **Hash button**: Computes the SHA-1 hash of the input string.
@@ -14,7 +14,7 @@ This project is a graphical user interface (GUI) application that calculates the
 - **How It Works button**: Displays a dialog explaining how the SHA-1 algorithm works and how to use the application.
 - **Dark Mode**: Toggles between light and dark modes for the GUI.
 
-##Installation
+## Installation
 
 To run this application, ensure you have Java Development Kit (JDK) installed on your system. You can download it from Oracle's official website.
 
@@ -35,7 +35,7 @@ javac SHA1HashGUI.java
   java SHA1HashGUI
 
 
-##Usage
+## Usage
 
 1. **Enter the text**: Type the text you want to hash in the input field.
 2. **Generate Hash**: Click the 'Hash' button to compute the SHA-1 hash of the input text.
@@ -45,14 +45,14 @@ javac SHA1HashGUI.java
 6. **View Instructions**: Click the 'How It Works' button to see an explanation of the SHA-1 algorithm and application usage.
 7. **Toggle Dark Mode**: Check or uncheck the 'Dark Mode' checkbox to switch between light and dark themes.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contributing
+## Contributing
 
 If you wish to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions are welcome!
 
-##Contact
+## Contact
 
 For any questions or feedback, please contact [khalidkhelil19@gmail.com].
